@@ -1,0 +1,18 @@
+{
+  "series": [
+    {
+      "name": "Example Saga",
+      "author": "Alice Example",
+      "books": [
+        {
+          "libraryBookId": "1001",
+          "title": "The Example Book"
+        },
+        {
+          "libraryBookId": "1002",
+          "title": "Patterns in Practice"
+        }
+      ]
+    }
+  ]
+}

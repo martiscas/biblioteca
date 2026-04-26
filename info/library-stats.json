@@ -1,0 +1,100 @@
+{
+  "title": "Personal library",
+  "intro": "Template dashboard generated from info/library.json.",
+  "profileLabel": "My Goodreads profile",
+  "profileUrl": "https://www.goodreads.com/",
+  "sourceNote": "Derived from info/library.json",
+  "yearlyReads": [
+    {
+      "year": 2026,
+      "count": 2
+    },
+    {
+      "year": 2025,
+      "count": 1
+    }
+  ],
+  "latestRead": [
+    {
+      "bookId": "1001",
+      "title": "The Example Book",
+      "author": "Alice Example",
+      "dateRead": "2026-03-12",
+      "rating": 5,
+      "reviewUrl": "https://www.goodreads.com/review/show/1001",
+      "hasReview": true,
+      "reviewLikes": 12,
+      "reviewLocalUrl": "./reviews/1001.html",
+      "reviewLocalStatus": "ok"
+    },
+    {
+      "bookId": "1002",
+      "title": "Patterns in Practice",
+      "author": "Bob Pattern",
+      "dateRead": "2026-02-02",
+      "rating": 4,
+      "reviewUrl": "https://www.goodreads.com/review/show/1002",
+      "hasReview": true,
+      "reviewLikes": 7,
+      "reviewLocalUrl": "./reviews/1002.html",
+      "reviewLocalStatus": "ok"
+    }
+  ],
+  "topReviewedByLikes": [
+    {
+      "bookId": "1001",
+      "title": "The Example Book",
+      "author": "Alice Example",
+      "dateRead": "2026-03-12",
+      "rating": 5,
+      "reviewUrl": "https://www.goodreads.com/review/show/1001",
+      "hasReview": true,
+      "reviewLikes": 12,
+      "reviewLocalUrl": "./reviews/1001.html",
+      "reviewLocalStatus": "ok"
+    },
+    {
+      "bookId": "1002",
+      "title": "Patterns in Practice",
+      "author": "Bob Pattern",
+      "dateRead": "2026-02-02",
+      "rating": 4,
+      "reviewUrl": "https://www.goodreads.com/review/show/1002",
+      "hasReview": true,
+      "reviewLikes": 7,
+      "reviewLocalUrl": "./reviews/1002.html",
+      "reviewLocalStatus": "ok"
+    }
+  ],
+  "latestReviewed": [
+    {
+      "bookId": "1001",
+      "title": "The Example Book",
+      "author": "Alice Example",
+      "dateRead": "2026-03-12",
+      "rating": 5,
+      "reviewUrl": "https://www.goodreads.com/review/show/1001",
+      "hasReview": true,
+      "reviewLikes": 12,
+      "reviewLocalUrl": "./reviews/1001.html",
+      "reviewLocalStatus": "ok"
+    },
+    {
+      "bookId": "1002",
+      "title": "Patterns in Practice",
+      "author": "Bob Pattern",
+      "dateRead": "2026-02-02",
+      "rating": 4,
+      "reviewUrl": "https://www.goodreads.com/review/show/1002",
+      "hasReview": true,
+      "reviewLikes": 7,
+      "reviewLocalUrl": "./reviews/1002.html",
+      "reviewLocalStatus": "ok"
+    }
+  ],
+  "totals": {
+    "booksRead": 3,
+    "booksReviewed": 2,
+    "totalReviewLikes": 19
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-04-22T00:00:00Z",
+  "source": {
+    "rssUrl": "https://www.goodreads.com/review/list_rss/YOUR_USER_ID?key=YOUR_KEY&shelf=%23ALL%23",
+    "scrapeLikes": false
+  },
+  "books": [
+    {
+      "bookId": "1001",
+      "title": "The Example Book",
+      "author": "Alice Example",
+      "dateRead": "2026-03-12",
+      "rating": 5,
+      "reviewUrl": "https://www.goodreads.com/review/show/1001",
+      "hasReview": true,
+      "reviewLikes": 12,
+      "reviewLocalUrl": "./reviews/1001.html",
+      "reviewLocalStatus": "ok"
+    },
+    {
+      "bookId": "1002",
+      "title": "Patterns in Practice",
+      "author": "Bob Pattern",
+      "dateRead": "2026-02-02",
+      "rating": 4,
+      "reviewUrl": "https://www.goodreads.com/review/show/1002",
+      "hasReview": true,
+      "reviewLikes": 7,
+      "reviewLocalUrl": "./reviews/1002.html",
+      "reviewLocalStatus": "ok"
+    },
+    {
+      "bookId": "1003",
+      "title": "Notes on Reading",
+      "author": "Carla Notes",
+      "dateRead": "2025-11-10",
+      "rating": 4,
+      "reviewUrl": "",
+      "hasReview": false,
+      "reviewLikes": 0
+    }
+  ]
+}
